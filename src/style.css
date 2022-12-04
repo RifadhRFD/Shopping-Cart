@@ -23,6 +23,7 @@ a{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
     background-color: #212529;
     color: #ffffff;
     padding: 25px 60px;
@@ -56,6 +57,7 @@ a{
     grid-template-columns: repeat(4, 223px);
     gap: 30px;
     justify-content: center;
+    margin-bottom: 20px;
 }
 
     @media(max-width: 1080px){
@@ -117,7 +119,7 @@ a{
     margin-bottom: 20px;
 }
 
-.HomeBtn{
+.HomeBtn, .checkout, .removeAll{
     background-color: #212529;
     color:white;
     border: none;
@@ -125,6 +127,14 @@ a{
     padding: 6px;
     cursor: pointer;
     margin-top: 10px;
+}
+
+.checkout{
+    background-color: green;
+}
+
+.removeAll{
+    background-color: red;
 }
 
 .bi-x-lg{
@@ -165,3 +175,4 @@ a{
     border-radius: 4px;
     padding: 3px 6px;
 }
+

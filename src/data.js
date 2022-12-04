@@ -2,30 +2,58 @@
 let shopItemData = [
     {
         id: "aujsjjkj",
-        name: "Casual Shirt",
-        desc: "lorem lorem lorem lorem lorem lorem",
-        price: 45,
+        name: "Formal Shirt",
+        desc: "Slim Fit Long Sleeve-Black",
+        price: 89,
         img: "images/img1.jpg"
     },
     {
-        id: "jdkskak",
-        name: "Office Shirt",
-        desc: "lorem lorem lorem lorem lorem lorem",
-        price: 55,
+        id: "kjfdaknja",
+        name: "Formal Shirt",
+        desc: "Slim Fit Long Sleeve-Green",
+        price: 59,
         img: "images/img2.jpg"
     },
     {
-        id: "kmdsklajhc",
-        name: "Kids Shirt",
-        desc: "lorem lorem lorem lorem lorem lorem",
-        price: 65,
+        id: "nadjjadn",
+        name: "Formal Shirt",
+        desc: "Slim Fit Long Sleeve-Grey",
+        price: 74,
         img: "images/img3.jpg"
     },
     {
-        id: "kjsdlas",
-        name: "Adult Shirt",
-        desc: "lorem lorem lorem lorem lorem lorem",
-        price: 75,
+        id: "mvdanjdja",
+        name: "Formal Shirt",
+        desc: "Slim Fit Long Sleeve-Gold",
+        price: 79,
         img: "images/img4.jpg"
+    },
+    {
+        id: "ncklanawe",
+        name: "Polo T-Shirt",
+        desc: "Slim Fit Polo-Blue",
+        price: 79,
+        img: "images/img5.jpg"
+    },
+    {
+        id: "lkpokokij",
+        name: "Polo T-Shirt",
+        desc: "Slim Fit Polo-White",
+        price: 49,
+        img: "images/img6.jpg"
+    },
+    {
+        id: "oigytftyhklk",
+        name: "Chino Pant",
+        desc: "Slim Fit Chino Pant - Grey",
+        price: 85,
+        img: "images/img7.jpg"
+    },
+    {
+        id: "bashhdsahucc",
+        name: "Chino Pant",
+        desc: "Slim Fit Chino Pant - Brown",
+        price: 85,
+        img: "images/img8.jpg"
     }
 ];
